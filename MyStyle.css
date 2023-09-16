@@ -1,0 +1,66 @@
+@charset "UTF-8";
+label.generalInfo {
+	padding: 2px;
+	background-color: yellow;
+	text-align: right;
+	text-decoration: blink;
+}
+body{
+	background-color: #b38bf5;
+	background-image: url("Untitled.jpeg");
+/* 	background-repeat: repeat-y;
+ */	/*   background-size:     cover;                     
+    background-repeat:   no-repeat;  */
+  /*   background-size: contain;
+        background-repeat: no-repeat; */
+        background-attachment: fixed;
+    background-size: auto 100%;
+}
+#ageId{
+	padding: 2px;
+	align-self: center;
+		
+}
+
+
+button {
+
+background-color: #3498db;
+
+color: #fff;
+
+border: 1px solid #2980b9;
+
+padding: 10px 20px;
+
+border-radius: 5px;
+
+transition: background-color 0.3s ease-in-out;
+
+}
+
+ 
+
+button:hover {
+
+background-color: #2980b9;
+
+}
+
+ 
+
+button:active {
+
+background-color: #2076d3;
+
+}
+
+ 
+
+button:disabled {
+
+background-color: #ccc;
+
+cursor: not-allowed;
+
+}

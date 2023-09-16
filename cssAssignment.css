@@ -1,0 +1,11 @@
+p{
+	background-color: yellow
+}
+.nextButton{
+	width:402px;
+	height:125px;
+	background-image: url("button.jpeg");
+	color: red;
+	cursor: crosshair;
+
+	}
